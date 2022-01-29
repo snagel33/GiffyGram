@@ -22,8 +22,7 @@ export const NavBar = () => {
             <button id="logout" class="fakeLink">Logout</button>
         </div>
     </navbar>
-    <div><h1>Test</h1></div>
-    <div>${messageForm()}</div>
+
     
     `
 }
